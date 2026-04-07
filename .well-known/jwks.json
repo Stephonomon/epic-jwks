@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "n": "nmrGVJNXzI0B6AOo-d3HkXYQcNmM5XaH5EY9WpZbxM7S7mNiv7rd0xmcK5lH8xBQTUCaxGnYOm2aJR9iDm2A3uvFn-Fa7L_3v553KmNExrWfkVCGxuYxK3FI3_mpWoRTwC8jPNfdkcGvgWURhkxZFba5CRkdnoIDhu16IcmnHUEmvxd0e2LGAM9EIsEe5P5S1oMoPgziOF7TYlgW8oeC3LWwaBvbRdlReNDXPtkozbUi4ijwpAojOegGZV07lsPwrXbtIU7mKomGx8uxD0Onk4VTjpCCIRTzsOeX19QrzNFEBiLCSTYh-Ayzi64xP2R3VqdKu38OzVstZW-q3o0Uww",
+      "e": "AQAB",
+      "kid": "epic-mcp-key-1",
+      "use": "sig",
+      "alg": "RS384"
+    }
+  ]
+}
